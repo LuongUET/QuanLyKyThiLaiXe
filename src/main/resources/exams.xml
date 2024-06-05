@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<exams>
+    <exam>
+        <date>2024-02-02</date>
+        <location>Hồ Chí Minh</location>
+        <vehicleCount>50</vehicleCount>
+        <licenseType>B1</licenseType>
+        <examForm>Thực hành</examForm>
+    </exam>
+    <exam>
+        <date>2024-02-06</date>
+        <location>Hà Nội</location>
+        <vehicleCount>100</vehicleCount>
+        <licenseType>B2</licenseType>
+        <examForm>Thực hành</examForm>
+    </exam>
+</exams>

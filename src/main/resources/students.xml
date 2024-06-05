@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<students>
+    <student>
+        <name>Nguyễn Văn Test</name>
+        <cccd>454656565</cccd>
+        <registeredLicenseType>B1</registeredLicenseType>
+        <examDate>2024-02-02</examDate>
+        <result>Đậu</result>
+    </student>
+    <student>
+        <name>Nguyễn Văn C</name>
+        <cccd>1215454</cccd>
+        <registeredLicenseType>B1</registeredLicenseType>
+        <examDate>2024-02-02</examDate>
+        <result>Đậu</result>
+    </student>
+</students>
